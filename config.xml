@@ -7,7 +7,7 @@
     <author email="ejemplo@tudominio.com" href="http://tudominio.com">
         FASD
     </author>
-    <plugin name="com.brodysoft.sqliteplugin" spec="1.0.0" source="pgb" />
+    <plugin name="com.brodysoft.sqliteplugin" source="pgb" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
